@@ -12,7 +12,7 @@ TensorFlow 2
 
 Deep Reinforement Learning
 
-Gym-Gazebo Repository
+Gym-Gazebo Repository: an extension of OpenAI gym 
 
 Robot Operating System (ROS) Melodic
 
