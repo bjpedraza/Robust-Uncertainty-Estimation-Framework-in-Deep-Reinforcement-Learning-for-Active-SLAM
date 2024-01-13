@@ -12,11 +12,11 @@ TensorFlow 2
 
 NVIDIA GPU Drivers
 
-Deep Reinforement Learning
+Robot Operating System (ROS) Melodic
 
 Gym-Gazebo Repository: an extension of OpenAI gym 
 
-Robot Operating System (ROS) Melodic
+Deep Reinforement Learning
 
 Python
 
