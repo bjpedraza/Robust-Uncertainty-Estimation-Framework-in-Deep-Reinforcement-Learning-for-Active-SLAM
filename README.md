@@ -10,6 +10,8 @@ Linux OS
 
 TensorFlow 2
 
+NVIDIA GPU Drivers
+
 Deep Reinforement Learning
 
 Gym-Gazebo Repository: an extension of OpenAI gym 
