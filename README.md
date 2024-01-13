@@ -10,7 +10,11 @@ Linux OS
 
 TensorFlow 2
 
-Robot Operating System (ROS)
+Deep Reinforement Learning
+
+Gym-Gazebo Repository
+
+Robot Operating System (ROS) Melodic
 
 Python
 
