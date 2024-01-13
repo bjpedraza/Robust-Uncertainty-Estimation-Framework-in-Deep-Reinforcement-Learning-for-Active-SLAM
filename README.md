@@ -20,7 +20,7 @@ NVIDIA GPU Drivers
 
 Robot Operating System (ROS) Melodic
 
-Gym-Gazebo Repository: an extension of OpenAI gym 
+[Gym-Gazebo](https://github.com/erlerobot/gym-gazebo) Repository: an extension of OpenAI gym 
 
 Deep Reinforement Learning
 
