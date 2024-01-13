@@ -29,7 +29,7 @@ Robot Operating System (ROS) Melodic
 
 [Gym-Gazebo](https://github.com/erlerobot/gym-gazebo) Repository: an extension of OpenAI gym 
 
-Deep Reinforement Learning
+Deep Reinforcement Learning
 
 Python
 
