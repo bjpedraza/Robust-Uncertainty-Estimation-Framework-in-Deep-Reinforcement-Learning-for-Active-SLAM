@@ -1,5 +1,5 @@
 # Robust-Uncertainty-Estimation-Framework-in-Deep-Reinforcement-Learning-for-Active-SLAM
-This repository contains work on deep reinforcement learning for a TurtleBot robot using a custom-proposed architecture called Bayesian A2C. The project used the Gazebo simulator and an open-source OpenAI gym extension named [gym-gazebo](https://github.com/erlerobot/gym-gazebo). It was constructed using the Linux OS, TensorFlow, and the Robot Operating System (ROS).
+This repository contains work on deep reinforcement learning for a TurtleBot robot using a custom-built architecture called Bayesian A2C. The project used the Gazebo simulator and an open-source OpenAI gym extension named [gym-gazebo](https://github.com/erlerobot/gym-gazebo). It was constructed using the Linux OS, TensorFlow, and the Robot Operating System (ROS).
 
 
 ## Journal Article
