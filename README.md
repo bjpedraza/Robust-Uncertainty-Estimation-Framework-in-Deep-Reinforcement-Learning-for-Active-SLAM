@@ -3,7 +3,7 @@ This repository consists of deep reinforming learning on a TurtleBot robot using
 
 
 ## Journal IEEE Format
-This project is currently in the process of being submitted for public review by ProQuest, as well as another publisher. 
+This project's **full** paper is currently in the process of being submitted for the public by ProQuest, as well as another publisher. 
 
 While a shorter version of the project's idea was already submitted through the Conference on Artificial Intelligence (CAI) 2023, the **extended** version is set to be published publicly later this year in **2024**.
 
