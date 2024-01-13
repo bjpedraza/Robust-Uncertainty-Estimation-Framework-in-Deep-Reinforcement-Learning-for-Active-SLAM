@@ -24,6 +24,12 @@ CUDA Toolkit
 
 cuDNN SDK
 
+Simulated Depth-Camera
+
+Simulated LiDAR
+
+Slam_gmapping (edited)
+
 OpenCV
 
 Cv_bridge that bridges between ROS messages and OpenCV
