@@ -10,9 +10,9 @@ This demonstrated the superior robustness of the proposed Bayesian A2C model whe
 
 
 ## Journal Article
-This project's **full** paper is currently in the process of being submitted for the public by ProQuest, as well as another publisher. 
+This project's **complete** paper is currently in the process of being submitted for the public by ProQuest, as well as another publisher. 
 
-While a shorter version of the project's idea was already submitted through the IEEE Conference on Artificial Intelligence (CAI) 2023, the **extended** version is set to be published publicly later this year in **2024**.
+A concise version of a journal article on a deep reinforcement learning project was submitted to the IEEE Conference on Artificial Intelligence (CAI) in 2023. The complete and **extended** version is scheduled to be published publicly later this year in 2024.
 
 However, for now the shorter version can be found and read on the ieeexplore website and can be accessed at [Robust Active Simultaneous Localization and Mapping Based on Bayesian Actor-Critic Reinforcement Learning](https://ieeexplore.ieee.org/document/10195002).
 
