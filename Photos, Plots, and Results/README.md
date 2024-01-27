@@ -8,7 +8,7 @@ We began with the weakest noise and gradually increased the noise complexity of 
 Both types of noise were gradually increased in level to analyze the robustness of both models under unfamiliar, noisy conditions. 
 
 ### Gaussian 
-During the testing, we applied Gaussian noise, and the results were examined at seven different levels of noise.
+During testing, we applied Gaussian noise, and the results were examined at seven different levels of noise.
 We modified only the standard deviation (σ) from the Gaussian formula to apply multiple different levels of noise. 
 
 We tested seven different noise levels [0.0001, 0.001, 0.1, 0.2, 0.3, 0.4, 0.5], each with a total of 200 epochs/episodes per run.
