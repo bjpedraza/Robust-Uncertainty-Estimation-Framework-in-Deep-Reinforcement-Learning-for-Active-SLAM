@@ -19,7 +19,7 @@ We used the epsilon value to modify the strength of the attack added to the imag
 We tested six different noise attacks, with values of [0.0001, 0.001, 0.01, 0.05, 0.1, 0.2] for 200 epochs in each run. 
 
 # Uncertainty Analysis
-We conducted an uncertainty analysis to evaluate the performance of both models under noisy conditions.
+We conducted an uncertainty analysis to evaluate the performance and robustness of both models under noisy conditions.
 
 ### Variance vs Signal to Noise Ratio (SNR)
 We compared variance and signal to noise ratio (SNR) to measure the uncertainty in the actions when images are noisy.
